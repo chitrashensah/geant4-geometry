@@ -8,6 +8,4 @@
 
 // Export geometries
 export { SphereGeometry } from './geometries/SphereGeometry.js';
-
-// Export utilities (optional - users typically won't need this)
-export { CSG } from './utils/CSG.js';
+export {CSG} from './CSGMesh.js';

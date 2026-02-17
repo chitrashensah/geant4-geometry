@@ -5,7 +5,7 @@
  */
 
 import * as THREE from 'three';
-import { CSG } from '../utils/CSG.js';
+import { CSG } from '../CSGMesh';
 
 /**
  * Spherical sector geometry with inner/outer radius and angular cuts.
